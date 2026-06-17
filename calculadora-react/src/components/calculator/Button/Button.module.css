@@ -1,0 +1,27 @@
+.button {
+    padding: 15px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.number {
+    background: #f0f0f0;
+}
+
+.operator {
+    background: orange;
+    color: white;
+}
+
+.equals {
+    background: green;
+    color: white;
+    grid-column: span 2;
+}
+
+.special {
+    background: red;
+    color: white;
+}
